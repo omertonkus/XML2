@@ -1,0 +1,9 @@
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\RSSOkumaUygulamasi\RSSOkumaUygulamasi\bin\Debug\RSSOkumaUygulamasi.exe.config
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\RSSOkumaUygulamasi\RSSOkumaUygulamasi\bin\Debug\RSSOkumaUygulamasi.exe
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\RSSOkumaUygulamasi\RSSOkumaUygulamasi\bin\Debug\RSSOkumaUygulamasi.pdb
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.Form1.resources
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.Properties.Resources.resources
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.exe
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.pdb
